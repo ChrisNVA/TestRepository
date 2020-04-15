@@ -9,6 +9,8 @@ public class MyClass {
 		
 		//Este comentario viene desde eclipse 
 		//Igual que este pero dando un commit and push al mismo tiempo
+		
+		//Este comentario viene desde github
 	}
 
 }
