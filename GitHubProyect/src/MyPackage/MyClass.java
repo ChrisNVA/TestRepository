@@ -6,6 +6,8 @@ public class MyClass {
 		System.out.println("Hello word for GitHub");
 		System.out.println("second hello");
 		//Adding comment
+		
+		//Este comentario viene desde eclipse 
 	}
 
 }
