@@ -13,6 +13,9 @@ public class MyClass {
 		//Este comentario viene desde github
 		
 		//Nuevamente un comentario desde eclipse
+		
+		//Comentarios desde
+		//github
 	}
 
 }
